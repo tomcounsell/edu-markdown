@@ -1,1 +1,1 @@
-# edu-markdown
+# Markdown is Awesome 🚀
