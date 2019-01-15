@@ -52,11 +52,11 @@ Small errors (like a missing `>`) in HTML will break the whole page. Mistakes in
 
 # Let's make a CV...
 
-[ ] Header
-[ ] Contact Info
-[ ] Skills
-[ ] Experience
-[ ] Portfolio
+- [ ] Header
+- [x] Contact Info
+- [x] Skills
+- [x] Experience
+- [ ] Portfolio
 
 ---
 # Tom Counsell
@@ -66,10 +66,10 @@ Small errors (like a missing `>`) in HTML will break the whole page. Mistakes in
 
 ### **Contact**
 
-[Email Me](mailto:contact@tomcounsell.com)
-[Connect on LinkedIn](linkedin.com/in/tomcounsell)
-[@tomcounsell on Telegram](t.me/tomcounsell)
-[@tomcounsell on Twitter](twitter.com/tomcounsell)
+- [Email Me](mailto:contact@tomcounsell.com)
+- [Connect on LinkedIn](linkedin.com/in/tomcounsell)
+- [@tomcounsell on Telegram](t.me/tomcounsell)
+- [@tomcounsell on Twitter](twitter.com/tomcounsell)
 
 ---
 
