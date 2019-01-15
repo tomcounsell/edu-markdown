@@ -87,14 +87,14 @@ Small errors (like a missing `>`) in HTML will break the whole page. Mistakes in
 
 2017-current
 :   **Executive Director** at [Blockchain Hub Prague](blockchainhubprague.com)
-*Prague, Czech Republic*
-Blockchain Hub is a business incubator that helps new and startup blockchain projects to develop by providing software engineering services, management training, and office space. Incubation at Blockchain Hub provides a unique and highly flexible combination of business development, infrastructure, and advisors in legal and finance designed to nurture blockchain projects, helping them to survive and grow through the difficult early stages of development. The collaborative environment is designed specifically to help the projects synergize and succeed.
+:   *Prague, Czech Republic*
+:   Blockchain Hub is a business incubator that helps new and startup blockchain projects to develop by providing software engineering services, management training, and office space. Incubation at Blockchain Hub provides a unique and highly flexible combination of business development, infrastructure, and advisors in legal and finance designed to nurture blockchain projects, helping them to survive and grow through the difficult early stages of development. The collaborative environment is designed specifically to help the projects synergize and succeed.
 &nbsp; 
 
 2017 – Present
 :   **Head Of Engineering and Innovation** at Intelligent Trading Foundation
-*Prague, Czech Republic*
-Intelligent Trading Technologies (ITT) is a Fintech company developing an artificial intelligence-powered trading assistant for the cryptocurrency markets. Our Platform pairs traditional market trading concepts with today’s cutting-edge pattern recognition and machine learning capabilities. These technologies allow the software to continuously scan, analyze, and interpret the massive amount of information available, delivering game-changing trading ideas to you to execute.
+:   *Prague, Czech Republic*
+:   Intelligent Trading Technologies (ITT) is a Fintech company developing an artificial intelligence-powered trading assistant for the cryptocurrency markets. Our Platform pairs traditional market trading concepts with today’s cutting-edge pattern recognition and machine learning capabilities. These technologies allow the software to continuously scan, analyze, and interpret the massive amount of information available, delivering game-changing trading ideas to you to execute.
 
 
 ### **Portfolio**
